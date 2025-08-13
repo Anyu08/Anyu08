@@ -21,5 +21,5 @@ Tengo experiencia en **HTML, CSS, JavaScript, PHP, Laravel, MySQL, Oracle** y m�
 ---
 
 ## 📫 Cómo contactarme
-- 📧 Email: tuemail@example.com
-- 💼 LinkedIn: [Tu perfil](https://linkedin.com/in/tuusuario)
+- 📧 Email: jimenahortua4@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/jimena-hortua-2b0429276
