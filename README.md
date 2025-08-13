@@ -10,7 +10,7 @@
 ---
 
 ## 👩‍💻 Sobre mí
-- 🎓 Estudiante de **Desarrollo de Software** (5° semestre).
+- 🎓 Estudiante de **Desarrollo de Software** (6° semestre).
 - 💼 Experiencia en **Laravel, MySQL, Oracle, PHP, HTML, CSS y JavaScript**.
 - 🎯 Enfoque en **Frontend** y optimización de bases de datos.
 - 💡 Amante del **diseño moderno** y la **experiencia de usuario (UI/UX)**.
