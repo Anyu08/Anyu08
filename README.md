@@ -1,7 +1,4 @@
-<!-- Banner principal -->
-<img src="https://via.placeholder.com/1000x200.png?text=Anyuri+Hortua+(Dev)" width="100%">
 
-# 💻 Anyuri Hortua (Dev)
 
 Soy una desarrolladora de software enfocada en **frontend** y bases de datos. Me apasiona crear soluciones innovadoras y visualmente atractivas.  
 Tengo experiencia en **HTML, CSS, JavaScript, PHP, Laravel, MySQL, Oracle** y más.
